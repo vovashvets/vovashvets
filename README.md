@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Pic](https://github.com/vovashvets/vovashvets/blob/main/Drupal-logo.png)
+
 <!--
 **vovashvets/vovashvets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
