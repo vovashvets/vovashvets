@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Pic](https://github.com/vovashvets/vovashvets/blob/main/D-logo.png)
+![Pic](https://github.com/vovashvets/vovashvets/blob/main/readdoc.png)
 
 <!--
 **vovashvets/vovashvets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
